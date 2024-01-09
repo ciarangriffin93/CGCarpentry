@@ -123,3 +123,7 @@ h1, h2 {
   margin: 0 auto;
   background: url('../images/gym-plan.jpeg') no-repeat center center;
 }
+
+#Location-time {
+  background-color: #7fae6b;
+}
