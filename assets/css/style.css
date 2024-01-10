@@ -159,3 +159,9 @@ footer{
 #photos > img {
   width: 100%;
 }
+
+footer {
+  background-color: rgb(255, 255, 255);
+  height: 200px;  
+  justify-content: space-evenly;
+}
