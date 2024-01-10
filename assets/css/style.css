@@ -171,6 +171,61 @@ footer{
   margin:10px 100px 20px 100px;
 }
 
+/* style for the contents of the contact page */
+.form-section{
+  display: flex;
+  justify-content: center;
+}
+
+.form-content{   
+  margin: 20px 0 30px 250px; 
+}
+
+.label{
+font-weight: 500;
+}
+
+.contact{
+  color: black;
+  width: 400px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 2px; 
+  margin-bottom: 10px;    
+}
+
+.contact:hover{
+  border: 2px solid chocolate;
+}
+
+.feedback{
+  border: 1px solid black;
+  width: 400px;
+  height: 70px;
+  border-radius: 2px; 
+  margin-bottom: 10px;   
+}
+
+.feedback:hover{
+  border: 2px solid chocolate;
+}
+
+.submit-button{
+  border: 1px solid black;
+  width: 150px;
+  height:30px;
+  text-align: center;
+  border-radius: 2px; 
+  background-color:wheat;
+  margin: 25px 0 110px 110px;
+}
+
+.submit-button:hover{
+  border: 2px solid chocolate;
+  background-color:darkorange;
+  color:white
+}
+
 footer {
   background-color: rgb(255, 255, 255);
   height: 200px;  
