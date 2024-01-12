@@ -60,9 +60,18 @@ h1, h2 {
 
 /* Hero image */
 
-#hero-image {
+#hero-gym {
   height: 600px;
   width: 100%;
+  overflow: hidden;
+  position: relative;
+
+}
+
+#hero-image {
+height: 600px;
+width: 100%;
+background: url('../images/fitness-club.webp') no-repeat center center; 
 
    /* animates zoom effect on loading page */
    animation-name: gym-zoom;
@@ -78,12 +87,6 @@ h1, h2 {
    to{
        transform: scale(1.1);
    }
-}
-
-#gym-outer {
-  height: 600px;
-  width: 100%;
-  overflow: hidden;
 }
 
 /* club ethos */
@@ -230,6 +233,11 @@ font-weight: 500;
 
 footer {
   background-color: rgb(255, 255, 255);
+  height: 200px;  
+  justify-content: space-evenly;
+}
+
+main {
   height: 200px;  
   justify-content: space-evenly;
 }
