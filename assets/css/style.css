@@ -11,7 +11,7 @@ body {
   font-family: Lato, sans-serif;
   font-weight: 300;
   color: #ffffff;
-  background-color: #ff0000;
+  background: url(../images/Gallery/pexels-photo-3253501.jpeg);
 }
 
 /* Header section */
@@ -240,4 +240,6 @@ footer {
 main {
   height: 200px;  
   justify-content: space-evenly;
+  background-color: #ffffff;
+  border-radius: 50px;
 }
