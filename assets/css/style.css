@@ -69,12 +69,10 @@ h1, h2 {
 }
 
 #cover-text h2 {
-  color: #ffffff;
   position: absolute;
-  width: 250px;
-  height: 100px;
-  right: 200px;
-  bottom: 0px;  
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);  
 }
 
 #hero-image {
