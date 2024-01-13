@@ -68,10 +68,19 @@ h1, h2 {
 
 }
 
+#cover-text h2 {
+  color: #ffffff;
+  position: absolute;
+  width: 250px;
+  height: 100px;
+  right: 200px;
+  bottom: 0px;  
+}
+
 #hero-image {
 height: 600px;
 width: 100%;
-background: url('../images/hero-image.webp') no-repeat center center; 
+background: url('../images/couching.webp') no-repeat center center; 
 
    /* animates zoom effect on loading page */
    animation-name: gym-zoom;
@@ -89,15 +98,12 @@ background: url('../images/hero-image.webp') no-repeat center center;
    }
 }
 
-#Location-time {
-  background-color: #7fae6b;
-  text-align: center;
-}
-
 /* footer */
 footer{
-  height: 150px;
-}
+    height: 200px;  
+    justify-content: space-evenly;
+    border-radius: 50px;
+  }
 
 .social-networks {
   text-align: center;
@@ -108,14 +114,7 @@ footer{
 }
 
 .social-networks i {
-  font-size: 160%;
-  margin: 1%;
-  padding: 5%;
-  color: blue;
-}
-
-main {
-  height: 200px;  
-  justify-content: space-evenly;
-  border-radius: 50px;
+  font-size: 50px;
+  margin: 0%;
+  padding: 10%;
 }
