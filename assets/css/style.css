@@ -96,6 +96,13 @@ background: url('../images/couching.webp') no-repeat center center;
    }
 }
 
+#My-name {
+  border: 1px solid #ffffff;
+  margin-top: 200px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
 /* footer */
 footer{
     height: 200px;  
