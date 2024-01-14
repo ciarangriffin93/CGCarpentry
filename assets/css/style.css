@@ -9,19 +9,24 @@
 
 body { 
   font-family: Lemon, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   color: #ffffff;
   background-color: #3a3a3a;
 }
 
-/* Header section */
-h1, h2 {
+h1 {
+  font-family: Open+sans, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color:red;
+}
+h2 {
   font-family: Open+sans, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
   color: #ffffff;
 }
-
+/* Header section */
 #logo {
   float: left;
   font-size: 280%;
