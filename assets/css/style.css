@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemon&family=Open+Sans:wght@300&display=swap');
 
 * {
   margin: 0;
@@ -8,7 +8,7 @@
 
 
 body { 
-  font-family: Lato, sans-serif;
+  font-family: Lemon, sans-serif;
   font-weight: 300;
   color: #ffffff;
   background-color: #3a3a3a;
@@ -16,7 +16,7 @@ body {
 
 /* Header section */
 h1, h2 {
-  font-family: Oswald, sans-serif;
+  font-family: Open+sans, sans-serif;
   text-transform: uppercase;
   letter-spacing: 4px;
   color: #ffffff;
