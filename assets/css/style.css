@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Oswald:wght@200&display=swap');
+
 * {
   padding: 0%;
   margin: 0%;
@@ -10,6 +12,7 @@ body {
   flex-direction: column;
   /* Geneic project styles */
   color: #3a3a3a;
+  font-family: 'Oswald', sans-serif;;
 }
 
 /* Header */
@@ -17,9 +20,14 @@ header {
   background-color: lightgray;
 }
 
+h1 {
+  font-family: 'Heebo', sans-serif;
+}
+
 /* Main content */
 Main {
   background-color: blue;
+  /* Make mainn take up any surpius space to push footer down */
   flex: 1 0 auto;
 }
 
