@@ -23,10 +23,60 @@ header {
   z-index: 99;
   width: 100%;
   box-shadow: 0 2px 2px red;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+header a {
+  text-decoration: none;
+  color: inherit;
 }
 
 h1 {
   font-family: 'Heebo', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #2a2a2a;
+}
+
+#menu {
+  font-size: 110%;
+  letter-spacing: 2px;
+  list-style-type: none;
+}
+
+#menu > li {
+  margin-bottom: 1em;
+}
+
+.active {
+  border-bottom: 1px solid #2a2a2a;
+}
+
+/* Navbar style with dropdown toggle */
+nav {
+  position: absolute;
+  background-color: lightgray;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 2px 2px #2a2a2a;
+  display: none;
+  top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+  display: block;
+}
+
+#nav-toggle {
+  display: none;
+}
+
+.nav-toggle-label {
+  font-size: 2rem;
 }
 
 /* Main content */
@@ -34,6 +84,7 @@ Main {
   background-color: blue;
   /* Make mainn take up any surpius space to push footer down */
   flex: 1 0 auto;
+  margin-top: 47px;
 }
 
 /* Footer */
