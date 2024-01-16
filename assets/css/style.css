@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: url('../images/backgound-image\ .jpeg');
+  background: url('../images/backgound-image\ .jpeg') no-repeat center center/cover;
   /* Geneic project styles */
   color: #3a3a3a;
   font-family: 'Oswald', sans-serif;
@@ -18,10 +18,10 @@ body {
 
 /* Header */
 header {
-  background: url('../images/logo-image\ .jpeg');
+  background: url('../images/logo-image\ .jpeg') no-repeat center center/cover;
   padding: 0 1rem;
   position: fixed;
-  z-index: 99;
+  z-index: 50;
   width: 100%;
   display: flex;
   justify-content: space-between;
@@ -82,22 +82,22 @@ nav {
 }
 
 /* Main content */
-
 Main {
-  /* Make mainn take up any surpius space to push footer down */
+  /* Make main take up space to push footer down */
   flex: 1 0 auto;
   margin-top: 47px;
 }
 
 section {
   flex: 1 0 auto;
-  margin-top: 80px;
+  margin-top: 50px;
 }
 
 #hero {
   height: 600px;
   width: 100%;
-  background: url('../images/hero-image.jpeg'); no-repeat center center/center;
+  background: url('../images/hero-image.jpeg') no-repeat center center/cover;
+  position: relative;
 }
 
 #contact-button {
@@ -114,11 +114,63 @@ section {
 
 /* Contact page */
 
-.contact-main {
-  background: url('../images/contact-image.jpeg');
-  background-size: cover;
-  background-position: center;
-  height: 500px; 
+#contact-page {
+  background: url('../images/contact-image.jpeg') no-repeat center center/cover;
+  width: 100%;
+  height: 600px;
+}
+
+.form-section{
+  display: flex;
+  justify-content: right;
+}
+
+.form-content{ 
+  margin: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  text-align: left;
+}
+
+.label {
+color: #fff;
+}
+
+.contact{
+  color: black;
+  width: 400px;
+  height: 30px;
+  border: 2px solid black; 
+  margin-bottom: 10px;    
+}
+
+.contact:hover{
+  border: 2px solid #fff;
+}
+
+.feedback{
+  border: 2px solid black;
+  width: 400px;
+  height: 70px; 
+  margin-bottom: 20px;   
+}
+
+.feedback:hover{
+  border: 10px solid #fff;
+}
+
+.submit-button{
+  border: 1px solid black;
+  width: 100px;
+  height:30px;
+  text-align: center; 
+  background-color:#fff;
+}
+
+.submit-button:hover{
+  border: 2px solid chocolate;
+  background-color:darkorange;
+  color:white
 }
 /* Footer */
 #social-networks {
