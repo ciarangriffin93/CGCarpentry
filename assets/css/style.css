@@ -106,6 +106,14 @@ Main {
   transform: translate(-50%, -50%);
 }
 
+/* Contact main */
+
+.contact-main {
+  background: url('../images/contact-image.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 500px; 
+}
 /* Footer */
 #social-networks {
   text-align: center;
