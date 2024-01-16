@@ -11,7 +11,6 @@ body {
   display: flex;
   flex-direction: column;
   background: url('../images/backgound-image\ .jpeg') no-repeat center center/cover;
-  /* Geneic project styles */
   color: #3a3a3a;
   font-family: 'Oswald', sans-serif;
 }
@@ -165,20 +164,19 @@ section {
   border: 2px solid white;
 }
 /* Footer */
-#social-networks {
+#social-media {
+  background-color: #fff;
   text-align: center;
-  padding: 10px;
+  padding: 10px 0;
   display: flex;
   justify-content: space-evenly;
   list-style-type: none;
 }
 
-#social-nextworks i {
-  font-family: 160%;
-  padding: 5%;
-  color: #3a3a3a;
+#social-media i {
+  font-size: 50px;
+  padding: 10%;
 }
-
 #gallery {
   line-height: 5%;
   column-count: 3;
@@ -219,7 +217,7 @@ section {
 
   /* Main content */
   main {
-    /* Push main content down to accomdate heard */
+    /* Push main content down to accomdate head */
     margin-top: 79px;
   }
 }
