@@ -197,6 +197,36 @@ Main {
   box-shadow: 10px 10px 10px black;
 }
 
+/* About page */
+
+.about-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.about-image {
+  flex-basis: 40%;
+  padding-top: 30px;
+  padding-left: 30px;
+  box-shadow: 20px 20px 20px black;
+
+}
+
+.about-image-img {
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+}
+  
+.about-text {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  color: #fff;
+}
+
 /* media query: tabets and larger (788px and up) */
 
 @media screen and (min-width: 768px) {
