@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: url('../images/backgound-image\ .jpeg') no-repeat center center/cover;
+  background: url('../images/body-image\ .jpeg') no-repeat center center/cover;
   color: #3a3a3a;
   font-family: 'Oswald', sans-serif;
 }
