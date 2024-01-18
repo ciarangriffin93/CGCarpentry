@@ -98,6 +98,8 @@ Main {
   margin-top: 47px;
 }
 
+/* Home page */
+
 #hero {
   height: 600px;
   width: 100%;
@@ -167,6 +169,19 @@ Main {
   height: 100px;
   margin: 2px 0 10px 0;
   border: 2px solid white;
+}
+
+.about-service {
+  text-align: center;
+}
+
+#service-type {
+  margin: 30px;
+  color: #fff;
+}
+
+#service-type > h2 {
+  font-size: xx-large;
 }
 
 /* Footer */
