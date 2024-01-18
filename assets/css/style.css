@@ -206,11 +206,8 @@ Main {
 }
 
 .about-image {
-  flex-basis: 40%;
   padding-top: 30px;
-  padding-left: 30px;
   box-shadow: 20px 20px 20px black;
-
 }
 
 .about-image-img {
@@ -220,10 +217,11 @@ Main {
 }
   
 .about-text {
-  font-size: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  text-align: center;
+  width: 50%;
+  height: 400px;
+  padding: 20px 40px;
+  font-size: 15px;
+  resize: none;
   color: #fff;
 }
 
