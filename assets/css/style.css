@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&family=Oswald:wght@200&display=swap');
 
 * {
-  padding: 0%;
+  padding: 0%; 
   margin: 0%;
   box-sizing: border-box;
 }
@@ -101,8 +101,9 @@ Main {
 #hero {
   height: 600px;
   width: 100%;
-  background: url('../images/hero-image.jpeg') no-repeat center center/cover;
+  background: url('../images/hero-image.jpeg') no-repeat center;
   position: relative;
+  box-shadow: 20px 20px 20px black;
 }
 
 #contact-button {
@@ -199,29 +200,25 @@ Main {
 
 /* About page */
 
-.about-info {
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-}
-
-.about-image {
-  padding-top: 30px;
+#about-image {
+  background: url(../images/about-image.jpeg) no-repeat center;
   box-shadow: 20px 20px 20px black;
+  margin-top: 40px;
+  height: 600px;
+  width: 100%;
+  position: relative;
 }
 
-.about-image-img {
-  min-width: 100%;
-  max-width: 100%;
-  min-height: 100%;
+.about-information {
+  text-align: left;
+}
+
+.about-text > h2 {
+  text-align: center;
 }
   
 .about-text {
-  width: 50%;
-  height: 400px;
-  padding: 20px 40px;
-  font-size: 15px;
-  resize: none;
+  margin: 30px;
   color: #fff;
 }
 
