@@ -237,10 +237,12 @@ Main {
   color: #fff;
 }
 
-/* media query: tabets and larger (788px and up) */
+/* For tabets and larger (788px and up) */
 
 @media screen and (min-width: 768px) {
+  
   /* Header */
+  
   nav {
     display: block;
     position: relative;
@@ -272,12 +274,41 @@ Main {
     /* Push main content down to accomdate head */
     margin-top: 79px;
   }
-}
-  
-  /* Large devices (laptops and desktop, 992px and up) */
 
-  @media screen and (min-width: 992px) {
-    #menu a:hover { 
-      border-bottom: 1px solid #2a2a2a;
+  #gallery {
+    column-count: 2;
   }
 }
+  
+  /* For Large devices (laptops and desktop, 992px and up) */
+
+  @media screen and (min-width: 992px) {
+    
+    #menu a:hover { 
+    border-bottom: 1px solid #2a2a2a;
+  }
+
+
+}
+
+/* For sreens with 375px and down */
+
+@media screen and (max-width: 375px) {
+  
+  /* Header */
+
+  #hero {
+    width: auto;
+  }
+  
+  h1 {
+    font-size: medium;
+  }
+
+  #gallery {
+    column-count: 1;
+  }
+
+}
+
+
