@@ -232,6 +232,8 @@ Main {
 
 .about-information {
   text-align: left;
+  background-color: rgb(137, 49, 49);
+  box-shadow: 20px 20px 20px #fff;
 }
 
 .about-text > h2 {
