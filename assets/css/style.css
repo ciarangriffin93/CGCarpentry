@@ -105,7 +105,7 @@ Main {
   width: 100%;
   background: url('../images/hero-image.jpeg') no-repeat center;
   position: relative;
-  box-shadow: 20px 20px 20px black;
+  box-shadow: 20px 20px 20px rgb(1, 1, 1);
 }
 
 #contact-button {
@@ -130,7 +130,7 @@ Main {
 .contact-form {
   margin: 140px 10% 0 0;
   color: #fff;
-  background-color: black;
+  background-color: rgb(1, 1, 1);
   max-width: 400px;
   position: absolute;
   left: 5%;
@@ -171,8 +171,13 @@ Main {
   border: 2px solid white;
 }
 
+/* Main service */
+
 .about-service {
   text-align: center;
+  background-color: rgb(137, 49, 49);
+  box-shadow: 20px 20px 20px #fff;
+
 }
 
 #service-type {
