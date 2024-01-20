@@ -1,6 +1,6 @@
 ![CGCarpentry](https://ciarangriffin93.github.io/CGCarpentry/)
 
-## Introduction
+## Introduction:
 
 ![Image of Device responsiveness](assets/images/image-responsivness.png)
 
@@ -36,6 +36,25 @@ This website was created as the first project for Code Institute's Full Stack So
 ![Mobile About Page](assets/images/Mobile-About.png)
 
 ![Mobile Contact Page](assets/images/Mobile-Contact.png)
+
+## Technologies:
+
+* HTML: Structure a web and use it for content.
+
+* CSS: CSS is a programming language used to style and format the layout of websites.
+
+* Font Awesome: was used for logo and the social media icons in the footer. The icon was at https://fontawesome.com/.
+
+* Favico: A favicon is a small icon that appears on the web browser tab of a website. You can see it when you visit https://www.hoststar.at/en/content/website-favicon-generator.
+
+* Gitpod: Gitppd is a platform that simplifies the process of creating demos for engineers. 
+
+* Git: used Git to commit and push the code for the development of the website.
+
+
+
+
+
 
 
 
