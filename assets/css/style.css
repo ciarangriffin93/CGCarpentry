@@ -208,8 +208,9 @@ Main {
 /* Gallery page */
 
 #gallery {
-  line-height: 10%;
   column-count: 3;
+  column-gap: 30px;
+  margin: 30px;
 }
 
 #gallery > img {
