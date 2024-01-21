@@ -45,11 +45,20 @@ This website was created as the first project for Code Institute's Full Stack So
 
 * Font Awesome: was used for logo and the social media icons in the footer. The icon was at https://fontawesome.com/.
 
-* Favico: A favicon is a small icon that appears on the web browser tab of a website. You can see it when you visit https://www.hoststar.at/en/content/website-favicon-generator.
+* Favicon: A favicon is a small icon that appears on the web browser tab of a website. You can see it when you visit https://www.hoststar.at/en/content/website-favicon-generator.
 
-* Gitpod: Gitppd is a platform that simplifies the process of creating demos for engineers. 
+* Gitpod: Gitppd is a platform that simplifies the process of creating demos for site. 
 
 * Git: used Git to commit and push the code for the development of the website.
+
+## Acknowledgements:
+
+* I would like to thank to my mentor, Tim Nelson, for his help and unwavering support.
+
+* I would like to thank to my tutor at Code Institute for their help and unwavering support.
+
+
+
 
 
 
