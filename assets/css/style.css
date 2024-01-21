@@ -177,6 +177,10 @@ Main {
   text-align: center;
   background-color: rgb(137, 49, 49);
   box-shadow: 20px 20px 20px #fff;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
 
 }
 
@@ -317,6 +321,13 @@ Main {
 
   #gallery {
     column-count: 1;
+  }
+
+  .about-service {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px
   }
 
 }
