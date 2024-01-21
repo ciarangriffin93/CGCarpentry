@@ -308,6 +308,7 @@ Main {
 
   #hero {
     width: auto;
+    margin: 20px;
   }
   
   h1 {
