@@ -1,6 +1,6 @@
 ![CGCarpentry](https://ciarangriffin93.github.io/CGCarpentry/)
 
-## Introduction:
+## Introduction
 
 ![Image of Device responsiveness](assets/images/Introduction-image.png)
 
@@ -9,7 +9,7 @@ CGCarpentry is a website for a small carpentry business in Dublin and Leitrim. I
 This website was created as the first project for Code Institute's Full Stack Software Development course. It was built using HTML and CSS. I used Gitpod to write the code.
 
 
-## UX:
+## UX
 
 * ## User stories:
 
@@ -29,11 +29,11 @@ This website was created as the first project for Code Institute's Full Stack So
 
 * As a returning user, I would like to check if there are any new downloads available. 
 
-## Desgin:
+## Desgin
 
 #### Color Scheme:
 
-I used colors from Cooler's website. 
+I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -46,12 +46,22 @@ I used colors from Cooler's website.
 
 #### Typogradhy:
 
+I used Oswald and Heebo from Google Fonts as the main font on the website, with 'Sans Serif'.
+
+#### Imagery:
+
+I have taken some images from https://www.pexels.com/, and I have also taken a picture of myself.
 
 
 
 
 
-## Wirefrom:
+
+
+
+
+
+## Wirefrom
 
 #### Desktop:
 ![Desktop Home page ](assets/images/Desktop-Home.png)
