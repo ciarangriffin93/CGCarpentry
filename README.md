@@ -184,34 +184,39 @@ You can fork this repository by using the following steps:
 ## Credit:
 
 #### Media
-* The website uses images sourced from Pexels.
+* [Pexels](https://www.pexels.com/): The website uses images sourced from Pexels.
+https://www.pexels.com/photo/man-using-a-laptop-at-a-wood-workshop-4491881/
+
+https://www.pexels.com/photo/a-man-cutting-wood-using-an-electric-jigsaw-6232447/
 
 * Wireframes for all Wireframes.
 
 #### Content
-* This site was created using information from Code Institute and W3Schools.
+* [W3schools](https://www.w3schools.com/)This site was created using information from Code Institute and W3Schools.
 
 * This website has helped me to gain a better understanding of the display function.
 
-* I added a font to my project using Google Fonts.
+* [Font Google](https://fonts.google.com/)I added a font to my project using Google Fonts.
 
-* I have added Font Awesome to the project.
+* [Font Awesome](https://fontawesome.com/)I have added Font Awesome to the project.
 
 ## Technologies:
 
-* HTML: Structure a web and use it for content.
+* [HTML](https://en.wikipedia.org/wiki/HTML): Structure a web and use it for content.
 
-* CSS: CSS used for the main site design and layout.
+* [CSS](https://en.wikipedia.org/wiki/CSS): CSS used for the main site design and layout.
 
-* Font Awesome: was used for logo and the social media icons in the footer. The icon was at https://fontawesome.com/.
+* [Font Awesome](https://fontawesome.com/): was used for logo and the social media icons in the footer.
 
-* Favicon: A favicon is a small icon that appears on the web browser tab of a website. Favicon was at https://www.hoststar.at/en/content/website-favicon-generator.
+* [Favicon](https://www.hoststar.at/en/content/website-favicon-generator): A favicon is a small icon that appears on the web browser tab of a website.
 
-* Gitpod: Cloud IDE was used to write, commit, and push code to GitHub.
+* [Gitpod](https://gitpod.io): Cloud IDE was used to write, commit, and push code to GitHub
 
-* Git: used write Git to commit and push the code for the development of the website.
+* [Git](https://git-scm.com): used write Git to commit and push the code for the development of the website.
 
-* Github: deploy the site.
+* [Github](https://github.com): deploy the site.
+
+* [Github Page](https://pages.github.com): The front-end site has been deployed using GitHub Pages for hosting.
 
 ## Acknowledgements:
 
