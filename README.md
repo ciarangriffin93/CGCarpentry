@@ -76,19 +76,6 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 ![Footer](assets/images/footer.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Wirefrom
 
 #### Desktop:
@@ -163,17 +150,5 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 * I would like to thank to my tutor at Code Institute for their help and unwavering support.
 
+* I would like to Code Institute's Slack community and Deaf group for their support.
 
-
-
-
-
-
-
-
-
-
-
-
-
-[def]: https://ciarangriffin93.github.io/CGCarpentry/
