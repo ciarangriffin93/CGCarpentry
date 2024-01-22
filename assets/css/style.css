@@ -335,6 +335,7 @@ Main {
 
   #gallery {
     column-count: 1;
+    margin: 60px;
   }
 
   .about-service {
