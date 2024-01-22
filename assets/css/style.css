@@ -217,15 +217,15 @@ Main {
 
 #gallery {
   column-count: 3;
-  column-gap: 30px;
-  margin: 30px;
+  column-gap: 60px;
+  margin: 60px;
 }
 
 #gallery > img {
   width: 100%;
   height: auto;
-  padding: 5px 5px 20px;
-  box-shadow: 10px 10px 10px black;
+  padding: 10px 10px 10px;
+  box-shadow: 5px 5px 5px black;
 }
 
 /* About page */
