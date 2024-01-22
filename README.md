@@ -76,6 +76,18 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 ![Footer](assets/images/footer.png)
 
+#### Gallery page:
+
+* Several images are shown of project carpentry.
+
+![Gallery](assets/images/gallery1.png)
+
+#### Contact Page:
+
+* A user can input their first name, last name, email address, and select events of interest via a form.
+
+![Contact](assets/images/contact.page%20.png)
+
 ## Wirefrom
 
 #### Desktop:
@@ -127,12 +139,25 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 ![About](assets/images/desktop.gallery.png)
 ![Contact](assets/images/desktop.contact.png)
 
+## Credit:
+
+#### Media
+* "The images used on the website are from Pexels.""The images used on the website are from Pexels.""
+
+#### Content
+* This site was created using information from Code Institute and W3Schools.
+
+* "This website has helped me to gain a better understanding of the display function.
+
+* I added a font to my project using Google Fonts.
+
+* I have added Font Awesome to the project.
 
 ## Technologies:
 
 * HTML: Structure a web and use it for content.
 
-* CSS: CSS is a programming language used to style and format the layout of websites.
+* CSS: CSS used for the main site design and layout.
 
 * Font Awesome: was used for logo and the social media icons in the footer. The icon was at https://fontawesome.com/.
 
