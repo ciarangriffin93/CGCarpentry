@@ -29,6 +29,18 @@ This website was created as the first project for Code Institute's Full Stack So
 
 * As a returning user, I would like to check if there are any new downloads available. 
 
+## Structure:
+
+The site has 4 pages
+
+* Home Page: A hero image of carpentry is on the home page with a contact button leading to more information.
+
+* Projects/Gallery Page: People are showing interest in my project gallery.
+
+* About Page: That is about my knowledge and experience in carpentry.
+
+* Contact Page: The Contact page provides a form for customers to submit their feedback.The Contact page provides a form for customers to submit their feedback.
+
 ## Desgin
 
 #### Color Scheme:
