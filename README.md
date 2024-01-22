@@ -118,6 +118,20 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 ![Mobile Contact Page](assets/images/Mobile-Contact.png)
 
+## Validator Testing
+
+* The process of checking the HTML document has been completed and there are no errors or warnings to display.
+
+![Index.html](assets/images/W3C-index.png)
+![Projects/Gallery.html](assets/images/W3C-gallery.png)
+![About.html](assets/images/W3C-about.png)
+![Contact.thml](assets/images/W3C-contact.png)
+
+* The CSS document has been checked and I am happy to report that there are no errors or warnings to display.
+
+![CSS](assets/images/W3C-CSS.png) 
+
+
 ## Technologies:
 
 * HTML: Structure a web and use it for content.
