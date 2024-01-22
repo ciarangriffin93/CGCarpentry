@@ -13,7 +13,7 @@ This website was created as the first project for Code Institute's Full Stack So
 
 * ## User stories:
 
-New User:
+#### New User:
 
 * As a first-time user, I would like to find information about learning carpentry on the site.
 
@@ -23,11 +23,28 @@ New User:
 
 * As a first-time user, I would like to see their social media links to assess their interest in carpentry.
 
-Returning User:
+#### Returning User:
 
 * As a returning user, I would appreciate it if there were some new photos added to the website. 
 
 * As a returning user, I would like to check if there are any new downloads available. 
+
+## Desgin:
+
+#### Color Scheme:
+
+I used colors from Cooler's website. 
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Sandy Brown   |  ![#f4a261](assets/images/Sandy-Brown.png)#f4a261  |
+| Cornsilk      |  ![fefae0](assets/images/Cornsilk.png) #fefae0 |
+| Deep Red      |  ![#941b0c](assets/images/deep-red.png) #941b0c|
+| Black         |  ![#000000](assets/images/black.png) #000000   |
+| White         |  ![#fff](assets/images/white.png) #fff         |
+| Dark Charcoal |  ![#2a2a2a](assets/images/dark-charcoal.png) #2a2a2a |
+
+
 
 
 ## Wirefrom:
