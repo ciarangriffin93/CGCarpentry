@@ -131,6 +131,15 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 ![CSS](assets/images/W3C-CSS.png) 
 
+## Lighthouse Testing:
+
+* The SpeedPage Lights report showed good results for the site.
+
+![Home](assets/images/pagespeed-index.png)
+![Project/Gallery](assets/images/desktop.about.png) 
+![About](assets/images/desktop.gallery.png)
+![Contact](assets/images/desktop.contact.png)
+
 
 ## Technologies:
 
@@ -144,7 +153,9 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 * Gitpod: Gitppd is a platform that simplifies the process of creating demos for site. 
 
-* Git: used Git to commit and push the code for the development of the website.
+* Git: used write Git to commit and push the code for the development of the website.
+
+* Github: deploy the site.
 
 ## Acknowledgements:
 
