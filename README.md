@@ -118,7 +118,7 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 ![Mobile Contact Page](assets/images/Mobile-Contact.png)
 
-## Validator Testing
+## Validator Testing:
 
 * The process of checking the HTML document has been completed and there are no errors or warnings to display.
 
