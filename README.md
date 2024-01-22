@@ -1,4 +1,4 @@
-![CGCarpentry](https://ciarangriffin93.github.io/CGCarpentry/)
+# [CGCarpentry](https://ciarangriffin93.github.io/CGCarpentry/)
 
 ## Introduction
 
@@ -11,7 +11,7 @@ This website was created as the first project for Code Institute's Full Stack So
 
 ## UX
 
-* ## User stories:
+## User stories:
 
 #### New User:
 
@@ -143,15 +143,55 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 No bugs left unfixed
 
+## Deployment:
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/RaymondBrien/taskbloomer), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://raymondbrien.github.io/taskbloomer)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/RaymondBrien/taskbloomer) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://ciarangriffin93.github.io/CGCarpentry/`
+
+Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
+A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
+
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/RaymondBrien/taskbloomer)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
 ## Credit:
 
 #### Media
-* "The images used on the website are from Pexels.""The images used on the website are from Pexels.""
+* The website uses images sourced from Pexels.
+
+* Wireframes for all Wireframes.
 
 #### Content
 * This site was created using information from Code Institute and W3Schools.
 
-* "This website has helped me to gain a better understanding of the display function.
+* This website has helped me to gain a better understanding of the display function.
 
 * I added a font to my project using Google Fonts.
 
@@ -167,7 +207,7 @@ No bugs left unfixed
 
 * Favicon: A favicon is a small icon that appears on the web browser tab of a website. Favicon was at https://www.hoststar.at/en/content/website-favicon-generator.
 
-* Gitpod: Gitppd is a platform that simplifies the process of creating demos for site. 
+* Gitpod: Cloud IDE was used to write, commit, and push code to GitHub.
 
 * Git: used write Git to commit and push the code for the development of the website.
 
