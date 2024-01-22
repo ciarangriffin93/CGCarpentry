@@ -218,6 +218,10 @@ https://www.pexels.com/photo/a-man-cutting-wood-using-an-electric-jigsaw-6232447
 
 * [Github Page](https://pages.github.com): The front-end site has been deployed using GitHub Pages for hosting.
 
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_input): Validate HTML code.
+
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): Validate CSS code.
+
 ## Acknowledgements:
 
 * I would like to thank to my mentor, Tim Nelson, for his help and unwavering support.
