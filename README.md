@@ -8,6 +8,28 @@ CGCarpentry is a website for a small carpentry business in Dublin and Leitrim. I
 
 This website was created as the first project for Code Institute's Full Stack Software Development course. It was built using HTML and CSS. I used Gitpod to write the code.
 
+
+## UX:
+
+* ## User stories:
+
+New User:
+
+* As a first-time user, I would like to find information about learning carpentry on the site.
+
+* As a first-time user, I would like to be able to contact the website and provide feedback for carpentry.
+
+* As a first-time user, I would like to see pictures of carpentry projects.
+
+* As a first-time user, I would like to see their social media links to assess their interest in carpentry.
+
+Returning User:
+
+* As a returning user, I would appreciate it if there were some new photos added to the website. 
+
+* As a returning user, I would like to check if there are any new downloads available. 
+
+
 ## Wirefrom:
 
 #### Desktop:
@@ -45,7 +67,7 @@ This website was created as the first project for Code Institute's Full Stack So
 
 * Font Awesome: was used for logo and the social media icons in the footer. The icon was at https://fontawesome.com/.
 
-* Favicon: A favicon is a small icon that appears on the web browser tab of a website. You can see it when you visit https://www.hoststar.at/en/content/website-favicon-generator.
+* Favicon: A favicon is a small icon that appears on the web browser tab of a website. Favicon was at https://www.hoststar.at/en/content/website-favicon-generator.
 
 * Gitpod: Gitppd is a platform that simplifies the process of creating demos for site. 
 
