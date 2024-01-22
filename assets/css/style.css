@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: url('../images/body-image.jpeg') no-repeat center center/cover;
+  background-color: #f4a261;
   color: #2a2a2a;
   font-family: 'Oswald', sans-serif;
 }
@@ -34,7 +34,7 @@ h3 {
 /* Header */
 
 header {
-  background-color: #fff;
+  background-color: #fefae0;
   padding: 0 1rem;
   position: fixed;
   z-index: 50;
@@ -99,6 +99,10 @@ Main {
 }
 
 /* Home page */
+
+#logo {
+  background-color: #fefae0;
+}
 
 #hero {
   height: 600px;
@@ -197,7 +201,7 @@ Main {
 /* Footer */
 
 #social-media {
-  background-color: #fff;
+  background-color: #fefae0;
   padding: 15px;
   display: flex;
   justify-content: center;
