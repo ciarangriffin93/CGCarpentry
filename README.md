@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-![Image of Device responsiveness](assets/images/image-responsivness.png)
+![Image of Device responsiveness](assets/images/Introduction-image.png)
 
 CGCarpentry is a website for a small carpentry business in Dublin and Leitrim. I'm creating a business for the first time and want to showcase my services on my website.
 
@@ -43,6 +43,10 @@ I used colors from Cooler's website.
 | Black         |  ![#000000](assets/images/black.png) #000000   |
 | White         |  ![#fff](assets/images/white.png) #fff         |
 | Dark Charcoal |  ![#2a2a2a](assets/images/dark-charcoal.png) #2a2a2a |
+
+#### Typogradhy:
+
+
 
 
 
