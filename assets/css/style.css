@@ -250,6 +250,10 @@ Main {
   color: #fff;
 }
 
+#contact-info {
+  width: 100%;
+}
+
 /* For tabets and larger (788px and up) */
 
 @media screen and (min-width: 768px) {
