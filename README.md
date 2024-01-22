@@ -46,11 +46,39 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 
 #### Typogradhy:
 
-I used Oswald and Heebo from Google Fonts as the main font on the website, with 'Sans Serif'.
+* I used Oswald and Heebo from Google Fonts as the main font on the website, with 'Sans Serif'.
 
 #### Imagery:
 
-I have taken some images from https://www.pexels.com/, and I have also taken a picture of myself.
+* I have taken some images from https://www.pexels.com/, and I have also taken a picture of myself.
+
+## Features
+
+#### Navigation:
+
+* The four pages have a navigation bar with options for Home, Projects/Gallery, About, and Contact.
+
+* "The site logo is clickable and it takes to the homepage of the website.
+
+![Image navigation bar](assets/images/Nav-bar.png)
+
+#### Landing Pagae:
+
+* The hero image is used to present carpentry. 
+
+* Click on the contact button located on the hero image. This will redirect to the contact page of the website.
+
+![Landing Page](assets/images/landing-page.png)
+
+#### Footer:
+
+* This section includes links that click to access social media Facebook, Instagram, Youtube, and WhatsApp sites.
+
+![Footer](assets/images/footer.png)
+
+
+
+
 
 
 
