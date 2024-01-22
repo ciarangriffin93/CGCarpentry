@@ -139,6 +139,10 @@ I used color from Cooler's website. Sandy brown color is suitable for wood.
 ![About](assets/images/desktop.gallery.png)
 ![Contact](assets/images/desktop.contact.png)
 
+## Unfixed Bugs:
+
+No bugs left unfixed
+
 ## Credit:
 
 #### Media
